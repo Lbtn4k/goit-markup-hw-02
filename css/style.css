@@ -18,10 +18,9 @@ a {
     color: #4D5AE5;
     font-family: Raleway,sans-serif;
     font-size: 18px;
-    font-style: normal;
     font-weight: 700;
     line-height: 1.17;
-    letter-spacing: 0.54px;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
@@ -32,10 +31,9 @@ a {
 .nav-link {
     color: #2E2F42;
     font-size: 16px;
-    font-style: normal;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .nav-link:hover,
@@ -50,10 +48,9 @@ a {
 .contacts {
     color: #434455;
     font-size: 16px;
-    font-style: normal;
     font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .contacts:hover,
@@ -73,21 +70,18 @@ a {
     color: #FFF;
     text-align: center;
     font-size: 56px;
-    font-style: normal;
     font-weight: 700;
     line-height: 1.07;
-    letter-spacing: 1.12px;
+    letter-spacing: 0.02em;
 }
 
 .button-content {
     background-color: #4D5AE5;
-    font-family: "Roboto", sans-serif;
     color: #FFF;
     font-size: 16px;
-    font-style: normal;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.64px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
     cursor: pointer;
 }
 
@@ -101,18 +95,16 @@ a {
 .header-advantages {
     color: #2E2F42;
     font-size: 20px;
-    font-style: normal;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.4px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .text-advantages {
     font-size: 16px;
-    font-style: normal;
     font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 /* section 3 */
@@ -125,10 +117,9 @@ a {
     color: #2E2F42;
     text-align: center;
     font-size: 36px;
-    font-style: normal;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 
@@ -140,19 +131,17 @@ a {
     color: #2E2F42;
     text-align: center;
     font-size: 20px;
-    font-style: normal;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.4px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .job-title {
     text-align: center;
     font-size: 16px;
-    font-style: normal;
     font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 /* section 4 */
@@ -161,28 +150,25 @@ a {
     color: #2E2F42;
     text-align: center;
     font-size: 36px;
-    font-style: normal;
     font-weight: 700;
     line-height: 1.11;
-    letter-spacing: 0.72px;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 
 .subtitle-portfolio {
     color: #2E2F42;
     font-size: 20px;
-    font-style: normal;
     font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.4px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .text-portfolio {
     font-size: 16px;
-    font-style: normal;
     font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 /* footer */
@@ -198,8 +184,7 @@ a {
 .text-footer {
     color: #F4F4FD;
     font-size: 16px;
-    font-style: normal;
     font-weight: 400;
-    line-height: 24px;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
